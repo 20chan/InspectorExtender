@@ -46,3 +46,7 @@ public ref int TargetRef => ref target;
 ```
 
 ![example-ref](imgs/example-ref.png)
+
+## How to use
+
+Add [`InspectorExtender.cs`](/InspectorExtender.cs) file to any editor scripts directory
